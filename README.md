@@ -7,6 +7,6 @@
 ![image alt](https://github.com/AdilAli007/java-ee/blob/d430c2a17a1407e758f92e4dd92fce5b79d3199a/Screenshot%20(17).png)
 ![image alt](https://github.com/AdilAli007/java-ee/blob/6f1797335d3117947546dbb947b0b0b9bf3d310d/Screenshot%20(18).png)
 # Student-Registration-Form-With-Jsp Images
-![image alt(https://github.com/AdilAli007/java-ee/blob/d73b71c8db2333d76ce8011221b6eea0ebad44c2/Screenshot%20(19).png)
+![image alt](https://github.com/AdilAli007/java-ee/blob/d73b71c8db2333d76ce8011221b6eea0ebad44c2/Screenshot%20(19).png)
 
  
